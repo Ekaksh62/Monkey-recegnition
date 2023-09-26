@@ -1,0 +1,25 @@
+body{
+    background-color: darkolivegreen;
+    color: cornsilk;
+    font-family: 'Playfair Display', serif;
+}
+.heading{
+    width: 100%;
+    font-size: 30px;
+    
+}
+
+#camera{
+    border: 3.5px dashed rgb(37, 129, 205);
+    width: 350px;
+    height: 300px;
+}
+
+.noo,#RON,#ROA{
+    color: darksalmon;
+    font-size: 20px;
+}
+
+h3{
+    background-color: chocolate;
+}
